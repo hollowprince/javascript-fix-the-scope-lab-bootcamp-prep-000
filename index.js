@@ -29,4 +29,4 @@ var funkyFunction = function() {
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
 var theFunk = "FUNKY!"
-// the hints are too vague and the lesson prior to this does not properly prepare users for being able to execute a function from within a function. Only how to call a variable from within a function, which doesn't work at all in reverse
+// the hints are too vague and the lesson prior to this does not properly prepare users for being able to execute a function from within a function. Only how to call a variable from within a function, which doesn't work at all in reverse. Even the most intense googling doesn't result in an answer that works in the designated line of code
